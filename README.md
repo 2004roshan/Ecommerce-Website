@@ -76,7 +76,7 @@ This is a **fully functional eCommerce website backend** built using **Spring Bo
 |---------------|-----------------------|-------------		|
 | `POST` 	| `/api/cart/add` 	| Add product to cart 	|
 | `GET` 	| `/api/cart`		| View cart items 	|
-| `DELETE` 	| `/api/cart/remove/{id}| Remove item from cart |
+| `DELETE` 	| `/api/cart/remove/{id}`| Remove item from cart |
 
 ### 📦 Orders  
 | Method | Endpoint 		| Description 		|
