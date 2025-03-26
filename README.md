@@ -1,4 +1,3 @@
-Here’s a well-structured, professional, and detailed README for your eCommerce website backend. You can directly copy and paste it into your GitHub repository.  
 
 ---
 
