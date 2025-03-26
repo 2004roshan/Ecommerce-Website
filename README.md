@@ -100,7 +100,7 @@ Ensure you have the following installed on your system:
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/ecommerce-backend.git
+git clone https://github.com/2004roshan/Ecommerce-Website.git
 cd ecommerce-backend
 ```
 
